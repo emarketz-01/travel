@@ -1,0 +1,22 @@
+@media screen and (max-width: 480px) and (min-width: 320px) {
+.package-details-content {    text-align: center;}
+.package-details-content .pac-img {    margin-bottom: 10px;}	
+#second-paralax .package-details-content .package-tag {    float: none;
+     width: 145px;
+       margin: 10px auto;}
+#first-slider .slide1 .text-left, #first-slider .slide2 .text-left {padding-top: 6px;}
+#second-paralax .col-md-9.pull-right.mrt { width: 100%;}
+#second-paralax .package-details-content .pac-decs h3 {
+    font-size: 18px;
+}
+#second-paralax .col-md-9.pull-right.mrt {
+    width: 100%;
+    margin-top: 100px;
+}
+.pac-img img {
+    height: auto;
+ }
+ #second-paralax .package-details-content {
+     border-right: 0px;
+ }
+}

@@ -1,0 +1,1 @@
+[19-Sep-2018 14:05:06 Etc/GMT] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/travellinmind/public_html/wp-includes/locale.php on line 10
